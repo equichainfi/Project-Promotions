@@ -5,4 +5,4 @@
 - [SCREENER](https://forms.gle/mwcyRDWbLLo39PYZ9)
 
 ## Interview Script
-- [Script](https://github.com/equichainfi/Project-Promotions/blob/EQC-41/Interview/Script.md)
+- [Script](https://github.com/equichainfi/Project-Promotions/blob/master/Interview/Script.md)
